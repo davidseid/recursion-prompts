@@ -438,7 +438,6 @@
         expect(exponent(-7,2)).to.equal(-49);
         expect(exponent(-7,4)).to.equal(-2401);
       });
-
     });
 
 
